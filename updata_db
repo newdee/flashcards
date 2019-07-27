@@ -1,0 +1,2 @@
+
+docker cp flashcards:/src/db/cards.db db/cards.db
